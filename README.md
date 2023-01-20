@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... learning Electron
 - 🌱 I’m currently learning ... electron!
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on ... nothing!
+- 🤔 I’m looking for help with ... Electron
 - 💬 Ask me about ...food
 - 📫 How to reach me: ...please dont
 - ⚡ Fun fact: ...I am a cat
